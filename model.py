@@ -1,4 +1,4 @@
-#builsing a probabilistic network
+#building a probabilistic network
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
